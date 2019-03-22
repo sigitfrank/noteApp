@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add_task"
+        android:icon="@drawable/ic_queue_black_24dp"
+        android:title="Tambah Catatan"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/nama"
+        android:title="Sigit Tunggul Waskito"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/npm"
+        android:title="1617051014"
+        app:showAsAction="never" />
+
+</menu>
