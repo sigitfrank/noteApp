@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Find-News</string>
+    <string name="ig">Instagram</string>
+    <string name="app_description">Application for news update</string>
+    <string name="app_description2">Read news because it increases your knowledge.
+        knowledge without religion is lame, religion without knowledge is blind</string>
+    <string name="albert">Albert Einstein</string>
+    <string name="started_at">Started at</string>
+    <string name="started_at_time">Nov 18</string>
+    <string name="finished_at">Finished at</string>
+    <string name="finished_at_time">Dec 18</string>
+    <string name="followus">Follow Us</string>
+    <string name="youtube">Youtube</string>
+    <string name="search">Search</string>
+    <string name="error">Error Title</string>
+    <string name="errorm">Error Message</string>
+    <string name="titlehome">Top Update</string>
+    <string name="home">Home News</string>
+    <string name="compass">Compass</string>
+    <string name="compass_desc">Check your direction</string>
+    <string name="land_information">Land Information</string>
+    <string name="land_information_desc">Check land value around Bandar Lampung city</string>
+    <string name="close">X</string>
+    <string name="donate_here">Involve yourself in technology</string>
+    <string name="find_news_application">Find News Application</string>
+    <string name="account_number">Account Number</string>
+    <string name="number_account">4470043120</string>
+    <string name="paypal_number">Paypal Address</string>
+    <string name="number_paypal">newsigit53@gmail</string>
+    <string name="donatess">Donate Here!</string>
+    <string name="findnews_desc_home">Find your news update</string>
+    <string name="direct_your_phone">Place your phone!</string>
+    <string name="subject_email">Subject</string>
+    <string name="to_email">To</string>
+    <string name="ideas_email">Ideas</string>
+    <string name="send_email">SEND</string>
+    <string name="gmail_findnews">findnewsupdate@gmail.com</string>
+    <string name="read_news_btn_widget">Read News</string>
+    <string name="_4_or_you_lost_your_direction">4. Or you lost your direction</string>
+    <string name="_3_give_us_some_ideas">3. Give us some ideas</string>
+    <string name="_2_land_information_of_bandar_lampung_city">2. Land information of Bandar Lampung city</string>
+    <string name="_1_news_update">1. News Update</string>
+    <string name="today_is_a_good_day_looking_for">Today is a good day, looking for:</string>
+</resources>
